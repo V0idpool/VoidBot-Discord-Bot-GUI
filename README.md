@@ -1,7 +1,6 @@
 Voidbot-Discord-Bot README
 ![Screenshot 2024-01-22 222237](https://github.com/V0idpool/VoidBot-Discord-Bot-GUI/assets/155442279/eee86f94-6927-4e8f-82c1-8ad475696e6f)
 ![Screenshot 2024-01-26 005450](https://github.com/V0idpool/VoidBot-Discord-Bot-GUI/assets/155442279/25c4316b-7aa6-41f8-818c-cecdd38eee50)
-![Screenshot 2024-01-22 222442](https://github.com/V0idpool/VoidBot-Discord-Bot-GUI/assets/155442279/ae92303d-df1c-4b30-aa3c-9d223d62f2ac)
 ![Screenshot 2024-01-22 222251](https://github.com/V0idpool/VoidBot-Discord-Bot-GUI/assets/155442279/4545ff6f-a3f8-4429-abdb-407e9a8664c1)
 
 [NEW VOIDWATCH LOGGER BETA]
