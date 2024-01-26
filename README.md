@@ -4,7 +4,7 @@ Voidbot-Discord-Bot README
 ![Screenshot 2024-01-22 222442](https://github.com/V0idpool/VoidBot-Discord-Bot-GUI/assets/155442279/ae92303d-df1c-4b30-aa3c-9d223d62f2ac)
 ![Screenshot 2024-01-22 222251](https://github.com/V0idpool/VoidBot-Discord-Bot-GUI/assets/155442279/4545ff6f-a3f8-4429-abdb-407e9a8664c1)
 
-[NEW VOID WATCHDOG LOGGER BETA]
+[NEW VOIDWATCH LOGGER BETA]
 Log and search all messages by exact time, or recent time span, regardless of a message being deleted, or edited. Save snapshots for moderation purposes.
 You will need multiple API's, they are listed below and links are included to make accounts to get your keys.
 
