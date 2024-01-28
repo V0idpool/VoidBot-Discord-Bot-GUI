@@ -6,7 +6,11 @@ Voidbot Discord Bot Commands and Usage
 This can also be used with the bots defined nickname (in UserCFG.ini) by doing "Hey botname, <question or just general chatting>.
 the botname contained anywhere in the string will also return a reply from the bot using ChatGPT. 
 
-/netinfo [Gets your Ping, Download, and Upload speed and posts it to the channel]
+/netinfo [Gets your Discord Servers Ping, Download, and Upload speed and posts it to the channel]
+
+/level [Check, and display your level in a clean embed]
+
+/leaderboard [Display a leaderboard of the top members in a clean embed]
 
 /roll [Rolls a 6 sided die, and returns a randomly generated number 1-6]
 
