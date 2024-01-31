@@ -1,65 +1,63 @@
 Voidbot Discord Bot Commands and Usage
 
-[All Role Public Commands]
+[All Public Commands]
 
 /ask <question> [asks ChatGPT A question, and returns the response as a reply from the bot]
 This can also be used with the bots defined nickname (in UserCFG.ini) by doing "Hey botname, <question or just general chatting>.
 the botname contained anywhere in the string will also return a reply from the bot using ChatGPT. 
 
-/netinfo [Gets your Discord Servers Ping, Download, and Upload speed and posts it to the channel]
-
-/level [Check, and display your level in a clean embed]
-
-/leaderboard [Display a leaderboard of the top members in a clean embed]
-
-/roll [Rolls a 6 sided die, and returns a randomly generated number 1-6]
-
 /8ball <question> [Ask the Magic 8 Ball a question, and get an answer]
+
+/ask <question> [Ask the OpenAI A question]
+
+/coinflip [Flip a coin, get heads or tails result]
 
 /duel @usertochallenge [use the @mention to duel that person and return who won and lost]
 
 /help [Display a list of all commands and their usage examples]
 
-/coinflip [Flip a coin, get heads or tails result]
+/leaderboard [Check and display the Server Leaderboard(Top 10)]
 
-/lfg (game_name) <players_needed> [Send an embed that shows the game name, and players needed for LFG. (Game Name) must be in ( )]
+/level [Check and display your Server Level]
+
+/lfg <game name> <players_needed> [Send an embed that shows the game name, and players needed for LFG.]
 
 /pokemon <Pokemon name> [Search for a pokemon, and get basic details, and a picture of it with a link to its PokemonDB url]
 
+/poll <Poll question> [Create a simple yes or no poll, With reacts to vote]
+
+/rank <username> [Get the specified users level information and display it]
+
+/roll [Rolls a 6 sided die, and returns a randomly generated number 1-6]
+
 /yt <Song, or video to search> [Search youtube video or song, and post the result for others to play] (Handy for music channels)
-
-/poll <Poll question> [Create a simple yes or no poll, With thumbs up and thumbs down reacts to vote]
-
 
 
 [Admin Only Commands]
 
-/say <message to send> [Make the bot say your message, to be used for bot driven global announcements or anything else]
+/ban @mentionuser <optional reason> [This will ban the mentioned user with an optional reason for moderation purposes]
 
 /pm @mentionuser <message to send> [This will have the bot send a PM to the mentioned user]
 
-/ban @mentionuser <optional reason> [This will ban the mentioned user with an optional reason for moderation purposes]
+/say <message to send> [Make the bot say your message, to be used for bot driven global announcements or anything else]
 
 
-[Admin And Moderator Role Only Commands(Your defined Moderator role "ID" in UserCFG.ini)]
+
+[Admin And Moderator Role Only Commands(Your defined Moderator role "ID"]
 
 (/intro Recommended to only run once in a channel, as it is a decent bit of information that populates the channel)
 /intro [This will throw a welcome channel about page up, Rules, etc. , Just set your social links in UserCFG.ini] 
 
 /kick @usernamemention [Kick the mentioned user from the server]
 
-/softban @mentionuser <optional reason> [This will kick the mentioned user, and prune their messages from last 7 days]
+/purge [Purge/delete the amount of messages in a channel, good for clearing spam or refreshing chat.]
 
-/purge [Purge/delete the last 100 messages in a channel, and filters out those older than two weeks and deletes them. Good for clearing spam, or refreshing chat.]
+/softban @mentionuser <optional reason> [This will kick the mentioned user, and prune their messages from last 7 days]
 
 /updatemsg <update message here> [Update the server with an embed with the title 📰 Server Update Information 📰 and your message being under in the desciption(I use this to post neat and tidy server update information for my members to review)]
 
 
 
-
-[Twitch/YT/FB Gaming Streamer Role Commands(Your defined Streamer role "ID" in UserCFG.ini)]
+[Twitch/YT/FB Gaming Streamer Role Commands(Your defined Streamer role "ID")]
 
 /live <twitch username> <Game Name> [Sends a global @everyone mention that displays your twitch url and video feed, along with the given Game name]
-
-
-
