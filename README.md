@@ -52,3 +52,6 @@ More documentation being added on usage ASAP
 
 If you like what I do, and would like to support me please consider donating.
 BuyMeACoffee: https://www.buymeacoffee.com/voidpool or CashApp Donations: https://cash.app/$KenM1337/
+
+
+Icon Pack Sourced from: https://www.flaticon.com/authors/xnimrodx/lineal-gradient?author_id=278&type=standard
