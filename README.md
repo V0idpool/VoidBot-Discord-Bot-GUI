@@ -1,7 +1,8 @@
 Voidbot-Discord-Bot README
-![Screenshot 2024-01-22 222237](https://github.com/V0idpool/VoidBot-Discord-Bot-GUI/assets/155442279/eee86f94-6927-4e8f-82c1-8ad475696e6f)
-![Screenshot 2024-01-26 005450](https://github.com/V0idpool/VoidBot-Discord-Bot-GUI/assets/155442279/25c4316b-7aa6-41f8-818c-cecdd38eee50)
-![Screenshot 2024-01-22 222251](https://github.com/V0idpool/VoidBot-Discord-Bot-GUI/assets/155442279/4545ff6f-a3f8-4429-abdb-407e9a8664c1)
+![mainimg](https://github.com/V0idpool/VoidBot-Discord-Bot-GUI/assets/155442279/7d2c13fe-99cb-4880-9078-656c5b04f4fe)
+![Commands](https://github.com/V0idpool/VoidBot-Discord-Bot-GUI/assets/155442279/eebb8519-4dcd-4779-9f1c-8e9b517b8147)
+![demos](https://github.com/V0idpool/VoidBot-Discord-Bot-GUI/assets/155442279/bdbe5d4f-c39d-4149-a4ea-3a343f5e82f4)
+
 
 [NEW VOIDWATCH LOGGER BETA]
 Log and search all messages by exact time, or recent time span, regardless of a message being deleted, or edited. Save snapshots for moderation purposes.
