@@ -1,4 +1,5 @@
 Voidbot-Discord-Bot README
+
 **Join the DISCORD Server:** https://discord.gg/V3VFb7Gxnw
 ![Screenshot 2024-01-31 180757](https://github.com/V0idpool/VoidBot-Discord-Bot-GUI/assets/155442279/c6e279b9-ed49-444c-ae42-4c8ee538ca93)
 ![Commands](https://github.com/V0idpool/VoidBot-Discord-Bot-GUI/assets/155442279/eebb8519-4dcd-4779-9f1c-8e9b517b8147)
