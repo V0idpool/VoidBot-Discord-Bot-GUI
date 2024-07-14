@@ -14,6 +14,12 @@ the botname contained anywhere in the string will also return a reply from the b
 
 /duel @usertochallenge [use the @mention to duel that person and return who won and lost]
 
+/googleit <Search query> [Use this when someone doesn't know how to google for something]
+
+/giveaway <item> <duration to run in minutes> [Run a giveaway event for your server]
+
+/checkgiveaway [Check for currently running giveaways, and list them with a clickable link that jumps to the giveaway message to react to enter.]
+
 /help [Display a list of all commands and their usage examples]
 
 /leaderboard [Check and display the Server Leaderboard(Top 10)]
@@ -25,6 +31,8 @@ the botname contained anywhere in the string will also return a reply from the b
 /pokemon <Pokemon name> [Search for a pokemon, and get basic details, and a picture of it with a link to its PokemonDB url]
 
 /poll <Poll question> [Create a simple yes or no poll, With reacts to vote]
+
+/ping [Check your network ping]
 
 /rank <username> [Get the specified users level information and display it]
 
@@ -48,12 +56,28 @@ the botname contained anywhere in the string will also return a reply from the b
 (/intro Recommended to only run once in a channel, as it is a decent bit of information that populates the channel)
 /intro [This will throw a welcome channel about page up, Rules, etc. , Just set your social links in UserCFG.ini] 
 
+/givexp <user> <xp amount> [Give a specified user a defined amount of XP]
+
+/removexp <user> <xp amount> [Remove defined amount of XP from specified user.]
+
 /kick @usernamemention [Kick the mentioned user from the server]
+
+/mute <username> <duration> [Mute a specified user for a specified duration. (This prevents the user from sending messages. Set Muted role to highest
+role, and set bots role above the muted role otherwise it will not work due to permission issues)]
+
+/unmute <username> [Unmute a specified user before their mute time is elapsed]
 
 /purge [Purge/delete the amount of messages in a channel, good for clearing spam or refreshing chat.]
 
 /softban @mentionuser <optional reason> [This will kick the mentioned user, and prune their messages from last 7 days]
 
+/warn <user> <Warn Reason> [Add a warning to a specified user for other staff to check. These are removed 30 days after the warning was given.]
+
+/warnclear <user> <warning number(Listed in /warninfo)> [Remove the specified warning]
+
+/warninfo <user> [Check a specified users warnings]
+
+{/updatemsg is a hidden command that will not show up in the / list. This is due to not being able to use multi-line strings to make a better looking message, it does not allow new lines in a / command field, this is the workaround} 
 /updatemsg <update message here> [Update the server with an embed with the title 📰 Server Update Information 📰 and your message being under in the desciption(I use this to post neat and tidy server update information for my members to review)]
 
 
