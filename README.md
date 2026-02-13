@@ -1,6 +1,9 @@
 Voidbot-Discord-Bot README
 
-**Join the DISCORD Server:** https://discord.gg/V3VFb7Gxnw
+**GUI PROJECT DISCONTINUED**
+I have decided to abandon the GUI version of the app, and have decided to focus only on the ByteKnight Console (CLI) version as it is far easier for users to maintain.
+
+**This can be found here: https://github.com/V0idpool/ByteKnight_Console **
 
 ![Screenshot 2024-01-31 180757](https://github.com/V0idpool/VoidBot-Discord-Bot-GUI/assets/155442279/c6e279b9-ed49-444c-ae42-4c8ee538ca93)
 ![Commands](https://github.com/V0idpool/VoidBot-Discord-Bot-GUI/assets/155442279/eebb8519-4dcd-4779-9f1c-8e9b517b8147)
